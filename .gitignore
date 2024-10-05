@@ -8,4 +8,4 @@ __pycache__/
 *.pywz2
 *.pywz3
 *.pywz4
-./venv/
+venv/
